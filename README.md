@@ -1,4 +1,4 @@
 # react15_template
 
-npm install
+npm install<br>
 npm start
